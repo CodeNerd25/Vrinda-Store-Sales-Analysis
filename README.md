@@ -10,8 +10,8 @@ The analysis aims to answer the following questions:
 
 Compare the sales and orders using a single chart
 Identify which month had the highest sales and orders
-Determine who purchased more — men or women in 2022
-Analyze different order statuses in 2022
+Determine who purchased more — men or women in 2025
+Analyze different order statuses in 2025
 List the top 10 states contributing to sales
 Understand the relationship between age and gender based on number of orders
 Identify which sales channel contributes the most
